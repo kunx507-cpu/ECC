@@ -1,3 +1,8 @@
+# Codex Auto Context
+
+When Codex opens this repository, read `AGENTS.ecc.md` first for the compact token-saving context and current handoff notes. Use this `AGENTS.md` file for the full ECC rules after that first pass.
+
+---
 # Everything Claude Code (ECC) — Agent Instructions
 
 This is a **production-ready AI coding plugin** providing 67 specialized agents, 277 skills, 92 commands, and automated hook workflows for software development.
